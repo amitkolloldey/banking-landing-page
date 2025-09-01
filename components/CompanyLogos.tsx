@@ -20,7 +20,7 @@ const CompanyLogos = () => {
             <Image
               src={company.src}
               alt={`${company.name} logo`}
-              width={130}
+              width={120}
               height={40}
               className="object-contain"
             />
